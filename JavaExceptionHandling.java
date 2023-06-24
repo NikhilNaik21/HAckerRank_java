@@ -2,8 +2,7 @@ import java.util.Scanner;
 class MyCalculator {
    
     public long power(int a, int b)throws Exception
-    {
-        
+    {        
         if(a==0 && b==0)
         {
             throw new Exception("n and p should not be zero.");
@@ -12,9 +11,6 @@ class MyCalculator {
         throw new Exception("n or p should not be negative.");
         else
         return (long)Math.pow(a, b);
-    
-   
-    
 }
 }
 public class Solution {
