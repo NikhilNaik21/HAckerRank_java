@@ -1,5 +1,5 @@
 # HAckerRank_java
-Simple array Question 
+/* Simple array Question 
 
 Given an array of integers, find the sum of its elements.
 
@@ -16,3 +16,4 @@ Input Format
 
 The first line contains an integer, , denoting the size of the array.
 The second line contains  space-separated integers representing the array's elements.
+*/
