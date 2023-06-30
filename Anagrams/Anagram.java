@@ -1,6 +1,4 @@
-
-
-    static boolean isAnagram(String c, String d) {
+   static boolean isAnagram(String c, String d) {
         // Complete the function
         
   
